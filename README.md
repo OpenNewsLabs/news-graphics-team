@@ -20,20 +20,18 @@ Add newsrooms! People who work there! Blog posts! Links to talks! (If you add pe
 - **Links to specific blog posts / videos / interviews** that show how the team is working. Links should give insight into the process of past projects, general principles and approaches to problems, how tools are used etc. 
 - **Team members** who currently create charts / graphics / data vis in these news rooms on a regular basis. Alumni should not be on this list (although I’m open to discussing that). Interns and fellows should not be added, since it's likely that we forget to remove them.
 
-
-————
+<br><br>
 
 ## 538Viz
 New York City, US / [@538Viz](https://twitter.com/538viz) / [Website](https://projects.fivethirtyeight.com/) / [Github](https://github.com/fivethirtyeight)
 * 2016: [Andrew Flowers: FiveThirtyEight's data journalism workflow with R](https://www.youtube.com/watch?v=1LujBaF1-4Y)
 * 2016: [FiveThirtyEight - Quickdraw Episode 01](https://vimeo.com/178735118)
-
+* -------
 * [Ella Koeze](https://twitter.com/ellawinthrop)
 * [Ritchie King](https://twitter.com/RitchieSKing)
 * [Reuben Fischer-Baum](https://twitter.com/reubenfb)
 * [Matthew Conlen](https://twitter.com/mathisonian)
 * ?
-
 
 ## AP Interactive
 [@AP_Interactive](https://twitter.com/AP_Interactive)
@@ -44,7 +42,6 @@ London, UK / [@BBCNewsGraphics](https://twitter.com/BBCNewsGraphics) / [Website]
 * [Bella Hurrel](https://twitter.com/BellaHurrell)
 * ? 
 
-
 ## Berliner Morgenpost Interaktiv
 Berlin, Germany / [Website](http://www.morgenpost.de/interaktiv/) / [Github](https://github.com/berlinermorgenpost)
 * [André Pätzold](https://twitter.com/alterpaetz)
@@ -54,10 +51,9 @@ Berlin, Germany / [Website](http://www.morgenpost.de/interaktiv/) / [Github](htt
 * [Moritz Klack](https://twitter.com/moklick)
 * ?
 
-
 ## Bloomberg Visual Data
 New York City, US / [@BBGVisualData](https://twitter.com/BBGVisualData) / [Website](http://www.bloomberg.com/graphics) 
-* [Lisa Strausfeld & Christopher Cannon: From Explanation to Exploration](https://www.youtube.com/watch?v=Qm4Ilw76hTI)
+* 2014: [Lisa Strausfeld & Christopher Cannon: From Explanation to Exploration](https://www.youtube.com/watch?v=Qm4Ilw76hTI)
 * -------
 * [Blacki Migliozzi](https://twitter.com/blackili)
 * [Cédric Sam](https://twitter.com/cedricsam)
@@ -107,6 +103,7 @@ London, UK / [@GuardianData](https://twitter.com/GuardianData) / [Website](https
 ## Guardian Visuals
 [@GuardianVisuals](https://twitter.com/GuardianVisuals)
 * 2011: [Alastair Dant: Data visualization & The Guardian: Reporting big stories through small details](https://vimeo.com/29700897)
+* -------
 * ?
 
 ## Huffington Post Data 
@@ -172,12 +169,10 @@ Washington, DC, US / [@nprviz](https://twitter.com/nprviz) / [Website](http://bl
 * [Tyler Fisher](https://twitter.com/tylrfishr)
 * ? 
 
-
 ## NZZ Storytelling
 Zurich, Switzerland / [@NZZStorytelling](https://twitter.com/NZZStorytelling)
 * [David Bauer](https://twitter.com/davidbauer)
 * ? 
-
 
 ## ProPublica Data
 New York City, US / [Website](https://www.propublica.org/data/)
@@ -188,7 +183,6 @@ New York City, US / [Website](https://www.propublica.org/data/)
 * [Sisi Wei](https://twitter.com/sisiwei)
 * ? 
 
-
 ## Quartz
 [@QuartzThings](https://twitter.com/quartzthings) / [Website](http://qz.com/re/quartzthings/) / [The Atlas](https://www.theatlas.com/)
 * [Chris Groskopf](https://twitter.com/onyxfish)
@@ -197,7 +191,6 @@ New York City, US / [Website](https://www.propublica.org/data/)
 * [Keith Collins](https://twitter.com/collinskeith)
 * [Sarah Slobin](https://twitter.com/sarahslo)
 * ? 
-
 
 ## Reuters Graphics
 [@ReutersGraphics](https://twitter.com/ReutersGraphics)
