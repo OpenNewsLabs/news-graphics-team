@@ -163,7 +163,7 @@ Los Angeles, US / [@LATimesGraphics](https://twitter.com/LATimesGraphics) / [Web
 Washington, DC, US / [@nprviz](https://twitter.com/nprviz) / [Website](http://blog.apps.npr.org/) / [Blog](http://blog.apps.npr.org/blog/)
 * [2015: Alyson Hurt – Data Visualization on a Deadline](https://www.youtube.com/watch?v=c327ir3qvEo)
 * -------
-* [Alsyon Hurt](https://twitter.com/alykat)
+* [Alyson Hurt](https://twitter.com/alykat)
 * [Juan Elosua](https://twitter.com/jjelosua)
 * [Katie Park](https://twitter.com/katiepark)
 * [Tyler Fisher](https://twitter.com/tylrfishr)
