@@ -121,11 +121,14 @@ Los Angeles, US / [@LATimesGraphics](https://twitter.com/LATimesGraphics) / [Web
 * [Alberto Lucas Lopez](https://twitter.com/aLucasLopez)
 * ? 
 
+## NBC News
+* [Sam Petulla](https://twitter.com/spetulla)
+
 ## New York Magazine
 * [Ashley Wu](https://twitter.com/ashhwu)
 * ? 
 
-## New York Times
+## New York Times Graphics
 [@nytgraphics](https://twitter.com/nytgraphics) / [Website](http://www.nytimes.com/interactive/2015/us/year-in-interactive-storytelling.html?_r=0) / [Github](https://github.com/newsdev)
 * 2011: [Amanda Cox: Shaping Data for News](https://vimeo.com/29391942)
 * 2012: [The New York Times (Interview with Steven Duenes)](https://vimeo.com/39753148)
@@ -183,7 +186,7 @@ New York City, US / [Website](https://www.propublica.org/data/)
 * [Sisi Wei](https://twitter.com/sisiwei)
 * ? 
 
-## Quartz
+## Quartz Things
 [@QuartzThings](https://twitter.com/quartzthings) / [Website](http://qz.com/re/quartzthings/) / [The Atlas](https://www.theatlas.com/)
 * [Chris Groskopf](https://twitter.com/onyxfish)
 * [David Yanofsky](https://twitter.com/YAN0)
