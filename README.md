@@ -2,28 +2,23 @@
 # List of Graphics Teams in News
 
 ### What is this list?
-Visual journalists, graphics reporters or however they call themselves are doing an amazing job in creating compelling visual storytelling around the world. This list focuses not on the [projects](https://github.com/wbkd/awesome-interactive-journalism), but on the teams: How do they work? Who works in which team? 
+Visual journalists, graphics reporters or however they call themselves are doing an amazing job in creating compelling visual storytelling around the world. This list focuses not on the [projects](https://github.com/wbkd/awesome-interactive-journalism), but on the **teams**: How do they work? Who works in which team? 
 
 ### Why do we need that? 
-1 / To learn from each other. Lots of graphics people gave/give amazing insights into their work; in talks or blog posts or daily on Twitter. Let’s compile this potential. 
-2 / To get to know the smaller newsrooms. We know the big player; but what happens outside of the US or the UK? Let’s get inspired by their work.
+1. **To learn from each other.** Lots of graphics people gave/give amazing insights into their work; in talks or blog posts or daily on Twitter. Let’s compile this potential. 
+2. **To get to know the smaller newsrooms.** We know the big player; but what happens outside of the US or the UK? Let’s get inspired by their work.
 
 ### How can I contribute? 
-Add newsrooms! People who work there! Blog posts! Links to talks! (If you add people, please make sure that they are ok with being added, if they don’t explicitly state their employer in their Twitter bio. If they don’t have Twitter, check their website/blog.) 
-- Create a [pull request](https://github.com/sindresorhus/awesome/blob/master/contributing.md#adding-something-to-an-awesome-list) 
+Add newsrooms! People who work there! Blog posts! Links to talks! (If you add people, please make sure that they are **ok with being added**, if they don’t explicitly state their employer in their Twitter bio. If they don’t have Twitter, check their website/blog.) 
+- Create a **[pull request](https://github.com/sindresorhus/awesome/blob/master/contributing.md#adding-something-to-an-awesome-list)** 
 - If you’re not comfortable with that, create a new issue
-- Write an email to [mailto:lisacharlotterost@gmail.com](lisacharlotterost@gmail.com)
+- Write an email to [lisacharlotterost@gmail.com](mailto:lisacharlotterost@gmail.com)
 
 ### What information should I add? 
 - **Name** of the team that charts / graphics / data vis. The list is currently sorted alphabetically. Maybe we’ll switch to a sorting by number of people later.
 - **Location and links to Twitter / Website / Blog / Github** 
 - **Links to specific blog posts / videos / interviews** that show how the team is working. Links should give insight into the process of past projects, general principles and approaches to problems, how tools are used etc. 
 - **Team members** who currently create charts / graphics / data vis in these news rooms on a regular basis. Alumni should not be on this list (although I’m open to discussing that). Interns and fellows should not be added, since it's likely that we forget to remove them.
-
-### People who like that list also like… 
-- [List of Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism)
-- [Twitter List of Graphics Teams](https://twitter.com/archietse/lists/graphics-departments)
-- [Twitter account that tweets every time a newsroom opens a new Github repo](https://twitter.com/newsnerdrepos)
 
 
 ————
@@ -62,7 +57,8 @@ Berlin, Germany / [Website](http://www.morgenpost.de/interaktiv/) / [Github](htt
 
 ## Bloomberg Visual Data
 New York City, US / [@BBGVisualData](https://twitter.com/BBGVisualData) / [Website](http://www.bloomberg.com/graphics) 
-[Lisa Strausfeld & Christopher Cannon: From Explanation to Exploration](https://www.youtube.com/watch?v=Qm4Ilw76hTI)
+* [Lisa Strausfeld & Christopher Cannon: From Explanation to Exploration](https://www.youtube.com/watch?v=Qm4Ilw76hTI)
+* -------
 * [Blacki Migliozzi](https://twitter.com/blackili)
 * [Cédric Sam](https://twitter.com/cedricsam)
 * [Chloe Whiteaker](https://twitter.com/ChloeWhiteaker)
@@ -96,7 +92,7 @@ London, UK / [@ECONDailyChart](https://twitter.com/ECONdailycharts)
 * ? 
 
 ## Financial Times Data
-London, UK / [@FTData](https://twitter.com/ftdata) / [Website](https://www.ft.com/ft-data) / [Blog](https://www.ft.com/chart-doctor) / [Github](
+London, UK / [@FTData](https://twitter.com/ftdata) / [Website](https://www.ft.com/ft-data) / [Blog](https://www.ft.com/chart-doctor) 
 * [Alan Smith](https://twitter.com/theboysmithy)
 * [Alexandra Wisniewska](https://twitter.com/alekswis)
 * [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
@@ -140,7 +136,7 @@ Los Angeles, US / [@LATimesGraphics](https://twitter.com/LATimesGraphics) / [Web
 * 2015: [Hannah Fairfield – The Power of the Reveal](https://www.youtube.com/watch?v=5A0DczzXyk4)
 * 2016: [Archie Tse – Why We Are Doing Fewer Interactives](https://github.com/archietse/malofiej-2016/blob/master/tse-malofiej-2016-slides.pdf)
 * 2016: [Gregor Aisch - Data visualization and the news](https://vimeo.com/182590214)
-
+* -------
 * [Adam Pearce](https://twitter.com/adamrpearce)
 * [Alicia Parlapiano](https://twitter.com/aliciaparlap)
 * [Amanda Cox](https://twitter.com/amandacox)
@@ -168,8 +164,8 @@ Los Angeles, US / [@LATimesGraphics](https://twitter.com/LATimesGraphics) / [Web
 
 ## NPR Visuals Team
 Washington, DC, US / [@nprviz](https://twitter.com/nprviz) / [Website](http://blog.apps.npr.org/) / [Blog](http://blog.apps.npr.org/blog/)
-[2015: Alyson Hurt – Data Visualization on a Deadline](https://www.youtube.com/watch?v=c327ir3qvEo)
-
+* [2015: Alyson Hurt – Data Visualization on a Deadline](https://www.youtube.com/watch?v=c327ir3qvEo)
+* -------
 * [Alsyon Hurt](https://twitter.com/alykat)
 * [Juan Elosua](https://twitter.com/jjelosua)
 * [Katie Park](https://twitter.com/katiepark)
@@ -185,7 +181,8 @@ Zurich, Switzerland / [@NZZStorytelling](https://twitter.com/NZZStorytelling)
 
 ## ProPublica Data
 New York City, US / [Website](https://www.propublica.org/data/)
-2016: [Lena Groeger: Meat Charts: Visualizing Data with the Human Form](https://vimeo.com/179987022)
+* 2016: [Lena Groeger: Meat Charts: Visualizing Data with the Human Form](https://vimeo.com/179987022)
+* -------
 * [Derek Willis](https://twitter.com/derekwillis)
 * [Lena Groeger](https://twitter.com/lenagroeger)
 * [Sisi Wei](https://twitter.com/sisiwei)
