@@ -9,10 +9,10 @@ Visual journalists, graphics reporters or however they call themselves are doing
 2. **To get to know the smaller newsrooms.** We know the big player; but what happens outside of the US or the UK? Let’s get inspired by their work.
 
 ### How can I contribute? 
-Add newsrooms! People who work there! Blog posts! Links to talks! (If you add people, please make sure that they are **ok with being added**, if they don’t explicitly state their employer in their Twitter bio. If they don’t have Twitter, check their website/blog.) 
-- Create a **[pull request](https://github.com/sindresorhus/awesome/blob/master/contributing.md#adding-something-to-an-awesome-list)** 
+- Create a **pull request** [(like this)](https://github.com/sindresorhus/awesome/blob/master/contributing.md#adding-something-to-an-awesome-list)
 - If you’re not comfortable with that, create a new issue
-- Write an email to [lisacharlotterost@gmail.com](mailto:lisacharlotterost@gmail.com)
+- Or write an email to [lisacharlotterost@gmail.com](mailto:lisacharlotterost@gmail.com)
+- If you add people, please make sure that they are **ok with being added**, if they don’t explicitly state their employer in their Twitter bio. If they don’t have Twitter, check their website/blog.
 
 ### What information should I add? 
 - **Name** of the team that charts / graphics / data vis. The list is currently sorted alphabetically. Maybe we’ll switch to a sorting by number of people later.
