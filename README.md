@@ -218,6 +218,12 @@ Switzerland / [@SRFData](https://twitter.com/srfdata) / [Website](http://www.srf
 * [Pascal Düblin](https://twitter.com/dublinpascal)
 * ? 
 
+## Tagesspiegel Data
+Berlin, Germany / [@tagesspiegel](https://twitter.com/tagesspiegel)
+* [Philipp Bock](https://github.com/pbock)
+* [Michael Kreil](https://github.com/MichaelKreil)
+* [Sebastian Vollnhals](https://github.com/yetzt)
+
 ## Vice News
 * [Allison McCann](https://twitter.com/atmccann)
 * ?
