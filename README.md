@@ -231,10 +231,12 @@ Berlin, Germany / [Website](http://zeit.de/datenjournalismus)
 * [Paul Blickle](https://twitter.com/colorfuldata)
 * ?
 
+<br>
 ————
 
 ### People who liked that list also like… 
-- [List of Awesome Interactive Journalism](https://github.com/wbkd/awesome-interactive-journalism)
+- [List of Awesome Interactive Journalism projects](https://github.com/wbkd/awesome-interactive-journalism)
+- [OpenNews list of newsrooms, their code and how-to articles](https://source.opennews.org/en-US/organizations/)
 - [Twitter List of Graphics Teams](https://twitter.com/archietse/lists/graphics-departments)
 - [Twitter account that tweets every time a newsroom opens a new Github repo](https://twitter.com/newsnerdrepos)
 
