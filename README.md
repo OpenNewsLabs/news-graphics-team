@@ -230,6 +230,16 @@ Berlin, Germany / [@tagesspiegel](https://twitter.com/tagesspiegel)
 * [Kenton Powell](https://twitter.com/kentonwpowell)
 * [Mike Deal](https://twitter.com/dealville)
 
+## Vox Storytelling Studio
+Washington, D.C., New York, NY / [@voxstorytelling](https://twitter.com/voxstorytelling)/ [Blog](https://storytelling.voxmedia.com/)
+* [Ryan Mark](https://twitter.com/ryanmark)
+* [Casey Miller](https://twitter.com/caseymmiller)
+* [Yuri Victor](https://twitter.com/yurivictor)
+* [Kelsey Scherer](https://twitter.com/kelsa_)
+* [Tyson Whiting](https://twitter.com/tyson_whiting)
+* [Brittany Holloway-Brown](https://twitter.com/brtttny)
+* [Kavya Sukumar](https://twitter.com/kavyasukumar)
+
 ## Wall Street Journal
 New York City, US / [@WSJGraphics](https://twitter.com/WSJGraphics) / [Website](http://graphics.wsj.com/) / [Github](https://github.com/wsj)
 * [Erik Hinton](https://twitter.com/erikhinton)
