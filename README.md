@@ -2,7 +2,7 @@
 # List of Graphics Teams in News
 
 ### What is this list?
-Visual journalists, graphics reporters or however they call themselves are doing an amazing job in creating compelling visual storytelling around the world. This list focuses not on the [projects](https://github.com/wbkd/awesome-interactive-journalism), but on the **teams**: How do they work? Who works in which team? 
+Visual journalists, graphics reporters or however they call themselves are doing an amazing job in creating compelling visual storytelling around the world. This list focuses not on their [projects](https://github.com/wbkd/awesome-interactive-journalism), but on the **teams**: How do they work? Who works in which team? 
 
 ### Why do we need that? 
 1. **To learn from each other.** Lots of graphics people gave/give amazing insights into their work; in talks or blog posts or daily on Twitter. Let’s compile this potential. 
@@ -18,7 +18,7 @@ Visual journalists, graphics reporters or however they call themselves are doing
 - **Name** of the team that charts / graphics / data vis. The list is currently sorted alphabetically. Maybe we’ll switch to a sorting by number of people later.
 - **Location and links to Twitter / Website / Blog / Github** 
 - **Links to specific blog posts / videos / interviews** that show how the team is working. Links should give insight into the process of past projects, general principles and approaches to problems, how tools are used etc. 
-- **Team members** who currently create charts / graphics / data vis in these news rooms on a regular basis. Alumni should not be on this list (although I’m open to discussing that). Interns and fellows should not be added, since it's likely that we forget to remove them.
+- **Team members and links to their Twitter account** who currently create charts / graphics / data vis in these news rooms on a regular basis. Alumni should not be on this list (although I’m open to discussing that). Interns and fellows should not be added, since it's likely that we forget to remove them.
 
 <br><br>
 
