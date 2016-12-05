@@ -188,6 +188,7 @@ New York City, US / [Website](https://www.propublica.org/data/)
 * -------
 * [Derek Willis](https://twitter.com/derekwillis)
 * [Lena Groeger](https://twitter.com/lenagroeger)
+* [Scott Klein](https://twitter.com/kleinmatic)
 * [Sisi Wei](https://twitter.com/sisiwei)
 * ? 
 
