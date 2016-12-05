@@ -15,7 +15,7 @@ Visual journalists, graphics reporters or however they call themselves are doing
 - If you add people, please make sure that they are **ok with being added**, if they don’t explicitly state their employer in their Twitter bio. If they don’t have Twitter, check their website/blog.
 
 ### What information should I add? 
-- **Name** of the team that charts / graphics / data vis. The list is currently sorted alphabetically. Maybe we’ll switch to a sorting by number of people later.
+- **Name** of the team that creates charts / graphics / data vis. The list is currently sorted alphabetically. Maybe we’ll switch to a sorting by number of people later.
 - **Location and links to Twitter / Website / Blog / Github** 
 - **Links to specific blog posts / videos / interviews** that show how the team is working. Links should give insight into the process of past projects, general principles and approaches to problems, how tools are used etc. 
 - **Team members and links to their Twitter account** who currently create charts / graphics / data vis in these news rooms on a regular basis. Alumni should not be on this list (although I’m open to discussing that). Interns and fellows should not be added, since it's likely that we forget to remove them.
