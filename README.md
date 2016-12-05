@@ -173,9 +173,14 @@ Washington, DC, US / [@nprviz](https://twitter.com/nprviz) / [Website](http://bl
 * ? 
 
 ## NZZ Storytelling
-Zurich, Switzerland / [@NZZStorytelling](https://twitter.com/NZZStorytelling)
+Zurich, Switzerland / [@NZZStorytelling](https://twitter.com/NZZStorytelling) / [Website](https://www.nzz.ch/storytelling)
 * [David Bauer](https://twitter.com/davidbauer)
-* ? 
+* [Beni Buess](https://twitter.com/benibu)
+* [Balz Rittmeyer](https://twitter.com/balzzz)
+* [Sharon Funke](https://twitter.com/feuerfunk)
+* [Alexandra Kohler](https://twitter.com/davidbauer)
+* [Anja Lemcke](https://twitter.com/anjalemcke)
+* and a few more than are not on Twitter...
 
 ## ProPublica Data
 New York City, US / [Website](https://www.propublica.org/data/)
