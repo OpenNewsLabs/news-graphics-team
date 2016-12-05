@@ -80,8 +80,12 @@ New York City, US / [@BBGVisualData](https://twitter.com/BBGVisualData) / [Websi
 * ?
 
 ## Chronicle of Higher Education
+Washington, DC / [@chrondata](https://twitter.com/chrondata) / [Website](http://chrondata.github.io/)
 * [Joshua Hatch](https://twitter.com/hatchjt)
-* ?
+* [Dan Bauman](https://twitter.com/danbauman77)
+* [Ben Myers](https://twitter.com/_benjmyers)
+* [Brian O'Leary](https://twitter.com/brainoleary)
+* [Peter Olsen-Phillips](https://twitter.com/POlsenPhillips)
 
 ## Economist
 London, UK / [@ECONDailyChart](https://twitter.com/ECONdailycharts)
