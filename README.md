@@ -227,7 +227,8 @@ Berlin, Germany / [@tagesspiegel](https://twitter.com/tagesspiegel)
 
 ## Vice News
 * [Allison McCann](https://twitter.com/atmccann)
-* ?
+* [Kenton Powell](https://twitter.com/kentonwpowell)
+* [Mike Deal](https://twitter.com/dealville)
 
 ## Wall Street Journal
 New York City, US / [@WSJGraphics](https://twitter.com/WSJGraphics) / [Website](http://graphics.wsj.com/) / [Github](https://github.com/wsj)
