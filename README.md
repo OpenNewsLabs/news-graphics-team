@@ -178,7 +178,7 @@ Zurich, Switzerland / [@NZZStorytelling](https://twitter.com/NZZStorytelling) / 
 * [Beni Buess](https://twitter.com/benibu)
 * [Balz Rittmeyer](https://twitter.com/balzzz)
 * [Sharon Funke](https://twitter.com/feuerfunk)
-* [Alexandra Kohler](https://twitter.com/davidbauer)
+* [Alexandra Kohler](https://twitter.com/koa_87)
 * [Anja Lemcke](https://twitter.com/anjalemcke)
 * and a few more than are not on Twitter...
 
