@@ -140,6 +140,7 @@ London, UK / [@GuardianData](https://twitter.com/GuardianData) / [Website](https
 * [James Armstrong](https://twitter.com/JamesA_Design)
 * [Garry Blight](https://twitter.com/pixelsquid)
 * [Feilding Cage](https://twitter.com/fcage)
+* [Apple Chan Fardel](https://twitter.com/pomme15c)
 * [Seán Clarke](https://twitter.com/SeanClarke)
 * [Chris Fenn](https://twitter.com/cfen)
 * [Will Franklin](https://twitter.com/wpf500)
