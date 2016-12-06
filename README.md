@@ -115,8 +115,19 @@ London, UK / [@GuardianData](https://twitter.com/GuardianData) / [Website](https
 * ?
 
 ## Los Angeles Times Graphics
-Los Angeles, US / [@LATimesGraphics](https://twitter.com/LATimesGraphics) / [Website](http://www.latimes.com/visuals/graphics/)
-* ?
+Los Angeles, US / [@LATimesGraphics](https://twitter.com/LATimesGraphics) / [Website](http://www.latimes.com/projects/) / [Github](https://github.com/datadesk)
+* [Len De Groot](https://twitter.com/lendegroot)
+* [Armand Emamdjomeh](https://twitter.com/emamd)
+* [Lorena Iñiguez Elebee](https://twitter.com/LoElebee)
+* [Thomas Suh Lauder](https://twitter.com/thomas06037)
+* [Paul Duginski](https://twitter.com/CartoonKahuna)
+* [Raoul Rañoa](https://twitter.com/ranoa)
+* [Jon Schleuss](https://twitter.com/gaufre)
+* [Kyle Kim](https://twitter.com/kyleykim)
+* [Priya Krishnakumar](https://twitter.com/priyakkumar)
+* [Eben McCue](https://twitter.com/EbenMcCue)
+* [Joe Fox](https://twitter.com/joemfox)
+* [Angelica Quintero](https://twitter.com/aq_silva)
 
 ## MinnPost Data
 [@MinnData](https://twitter.com/MinnData) / [Website](https://www.minnpost.com/data)
