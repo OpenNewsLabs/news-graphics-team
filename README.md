@@ -142,8 +142,9 @@ Harare, Zimbabwe / [Flickr](https://www.flickr.com/photos/hararenewsgraphics/)
 * [Graham van de Ruit](https://twitter.com/GrahamvdR)
 
 ## Huffington Post Data 
-[@HuffPostData](https://twitter.com/huffpostdata) / [Website](http://data.huffingtonpost.com/) / [Github](https://github.com/huffpostdata)
-* ?
+[@HuffPostData](https://twitter.com/huffpostdata) / [Website](http://data.huffingtonpost.com/) / [Github](https://github.com/huffpostdata) / [Tumblr](http://huffpostgraphics.tumblr.com/)
+* [Adam Hooper](https://twitter.com/adamhooper)
+* [Alissa Scheller](https://twitter.com/alissascheller)
 
 ## Los Angeles Times Graphics
 Los Angeles, US / [@LATimesGraphics](https://twitter.com/LATimesGraphics) / [Website](http://www.latimes.com/projects/) / [Github](https://github.com/datadesk)
