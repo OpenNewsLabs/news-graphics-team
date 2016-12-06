@@ -87,6 +87,13 @@ Washington, DC / [@chrondata](https://twitter.com/chrondata) / [Website](http://
 * [Brian O'Leary](https://twitter.com/brainoleary)
 * [Peter Olsen-Phillips](https://twitter.com/POlsenPhillips)
 
+## Condé Nast International
+
+London, UK / [Website](http://www.condenastinternational.com/) / Vogue, Wired, Vanity Fair, Glamour, and more.
+
+* [Jacqui Maher](https://twitter.com/jacqui)
+* [You?](https://condenastuk.avature.net/careers/JobDetail/Interactive-Developer/737)
+
 ## Economist
 London, UK / [@ECONDailyChart](https://twitter.com/ECONdailycharts)
 * ? 
