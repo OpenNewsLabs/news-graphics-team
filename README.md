@@ -164,6 +164,11 @@ Harare, Zimbabwe / [Flickr](https://www.flickr.com/photos/hararenewsgraphics/)
 * [Adam Hooper](https://twitter.com/adamhooper)
 * [Alissa Scheller](https://twitter.com/alissascheller)
 
+## International Business Times
+[@IBTimesUK](https://twitter.com/IBTimesUK) / [Temporary page](http://www.ibtimes.co.uk/reporters/daniele-palumbo)
+* [Daniele Palumbo](https://twitter.com/Danict89)
+* ?
+
 ## Los Angeles Times Graphics
 Los Angeles, US / [@LATimesGraphics](https://twitter.com/LATimesGraphics) / [Website](http://www.latimes.com/projects/) / [Github](https://github.com/datadesk)
 * [Len De Groot](https://twitter.com/lendegroot)
