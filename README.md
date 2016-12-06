@@ -1,8 +1,8 @@
 
-# List of Graphics Teams in News
+# List of Graphics People in Newsrooms
 
 ### What is this list?
-Visual journalists, graphics reporters or however they call themselves are doing an amazing job in creating compelling visual storytelling around the world. This list focuses not on their [projects](https://github.com/wbkd/awesome-interactive-journalism), but on the **teams**: How do they work? Who works in which team? 
+Visual journalists, graphics reporters or however they call themselves are doing an amazing job in creating compelling visual storytelling around the world. This list focuses not on their [projects](https://github.com/wbkd/awesome-interactive-journalism), but on the **people**: How do they work? Who works in which newsroom? 
 
 ### Why do we need that? 
 1. **To learn from each other.** Lots of graphics people gave/give amazing insights into their work; in talks or blog posts or daily on Twitter. Let’s compile this potential. 
@@ -15,10 +15,10 @@ Visual journalists, graphics reporters or however they call themselves are doing
 - If you add people, please make sure that they are **ok with being added**, if they don’t explicitly state their employer in their Twitter bio. If they don’t have Twitter, check their website/blog.
 
 ### What information should I add? 
-- **Name** of the team that creates charts / graphics / data vis. The list is currently sorted alphabetically. Maybe we’ll switch to a sorting by number of people later.
-- **Location and links to Twitter / Website / Blog / Github** 
-- **Links to specific blog posts / videos / interviews** that show how the team is working. Links should give insight into the process of past projects, general principles and approaches to problems, how tools are used etc. 
-- **Team members and links to their Twitter account** who currently create charts / graphics / data vis in these news rooms on a regular basis. Alumni should not be on this list (although I’m open to discussing that). Interns and fellows should not be added, since it's likely that we forget to remove them.
+- **Name** of the newsroom. The list is currently sorted alphabetically. Maybe we’ll switch to a sorting by number of people later.
+- **Location and links to the graphics departments on Twitter / Website / Blog / Github** 
+- **Links to specific blog posts / videos / interviews** that show how data vis people in this newsroomn are working. Links should give insight into the process of past projects, general principles and approaches to problems, which tools are used etc. 
+- **Team members and links to their Twitter account** who currently create charts / graphics / data vis in these newsrooms on a regular basis. Alumni should not be on this list (although I’m open to discussing that). Interns and fellows should not be added, since it's likely that we forget to remove them.
 
 <br><br>
 
@@ -77,11 +77,11 @@ New York City, US / [@BBGVisualData](https://twitter.com/BBGVisualData) / [Websi
 
 ## BuzzFeed News
 [Github](https://github.com/BuzzFeedNews)
-
+* [Ben King](https://twitter.com/brknyc)
 * [Jeremy Singer-Vine](https://twitter.com/jsvine)
+- [John Templon](https://github.com/jtemplon)
 * [Kendall Taggart](https://twitter.com/kendallttaggart)
 * [Peter Aldhous](https://twitter.com/paldhous)
-* ?
 
 ## Chronicle of Higher Education
 Washington, DC / [@chrondata](https://twitter.com/chrondata) / [Website](http://chrondata.github.io/)
@@ -91,10 +91,8 @@ Washington, DC / [@chrondata](https://twitter.com/chrondata) / [Website](http://
 * [Brian O'Leary](https://twitter.com/brainoleary)
 * [Peter Olsen-Phillips](https://twitter.com/POlsenPhillips)
 
-## Condé Nast International
-
-London, UK / [Website](http://www.condenastinternational.com/) / Vogue, Wired, Vanity Fair, Glamour, and more.
-
+## Condé Nast International (Vogue, Wired, Vanity Fair, Glamour etc.)
+London, UK / [Website](http://www.condenastinternational.com/)
 * [Jacqui Maher](https://twitter.com/jacqui)
 * [You?](https://condenastuk.avature.net/careers/JobDetail/Interactive-Developer/737)
 
@@ -172,7 +170,6 @@ Los Angeles, US / [@LATimesGraphics](https://twitter.com/LATimesGraphics) / [Web
 * [Gregor Aisch](https://twitter.com/driven_by_data)
 * [Haeyoun Park](https://twitter.com/haeyoun)
 * [Hannah Fairfield](https://twitter.com/hfairfield)
-* [Jeremy Bowers](https://twitter.com/jeremybowers)
 * [Jasmine C. Lee](https://twitter.com/jasmineclee)
 * [Jonathan Corum](https://twitter.com/13pt)
 * [Josh Katz](https://twitter.com/jshkatz)
@@ -180,12 +177,8 @@ Los Angeles, US / [@LATimesGraphics](https://twitter.com/LATimesGraphics) / [Web
 * [Karen Yourish](https://twitter.com/karenyourish)
 * [Kevin Quealy](https://twitter.com/KevinQ)
 * [Larry Buchanan](https://twitter.com/larrybuch)
-* [Michael Strickland](https://twitter.com/moriogawa)
-* [Matthew Ericson](https://twitter.com/mericson)
-* [Sarah Almukhtar](https://twitter.com/SarahAlmukhtar)
 * [Steve Duenes](https://twitter.com/Duenes)
 * [Tom Giratikanon](https://twitter.com/giratikanon)
-* [Quoctrung Bui](https://twitter.com/qdbui)
 * [Wilson Andrews](https://twitter.com/wilsonandrews)
 * ? 
 
