@@ -240,6 +240,16 @@ Berlin, Germany / [@tagesspiegel](https://twitter.com/tagesspiegel)
 * [Michael Kreil](https://github.com/MichaelKreil)
 * [Sebastian Vollnhals](https://github.com/yetzt)
 
+## The Times and Sunday Times
+London, UK / [@TimesDevelops](https://twitter.com/timesdevelops) / [Blog](https://medium.com/digital-times) / [Github](https://github.com/times)
+* [Matt Taylor](https://twitter.com/MattieTK)
+* [Chris Hutchinson](https://twitter.com/chrishutchinson)
+* [Callum Christie](https://twitter.com/flashcheeks)
+* [Elliot Davies](https://twitter.com/elimoto)
+* [Basile Simon](https://twitter.com/basilesimon)
+* [Sam Joiner](https://twitter.com/samjoiner)
+* [Peter Yeung](https://twitter.com/ptr_yeung)
+
 ## Vice News
 * [Allison McCann](https://twitter.com/atmccann)
 * [Kenton Powell](https://twitter.com/kentonwpowell)
