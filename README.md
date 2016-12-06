@@ -98,6 +98,7 @@ London, UK / [@FTData](https://twitter.com/ftdata) / [Website](https://www.ft.co
 * [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
 * [Martin Stabe](https://twitter.com/martinstabe)
 * [Tom Pearson](https://twitter.com/tomp)
+* [Chris Campbell](https://twitter.com/digitalcampbell)
 * ?
 
 ## Guardian Data
