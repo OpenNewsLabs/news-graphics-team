@@ -134,8 +134,25 @@ London, UK / [@GuardianData](https://twitter.com/GuardianData) / [Website](https
 ## Guardian Visuals
 [@GuardianVisuals](https://twitter.com/GuardianVisuals)
 * 2011: [Alastair Dant: Data visualization & The Guardian: Reporting big stories through small details](https://vimeo.com/29700897)
+* 2015: [Aron Pilhofer: Rebooting a 200-year-old startup](https://www.youtube.com/watch?t=35&v=qOYi_VTk99A)
+* 2016: [Monica Ulmanu: A small canvas for a large audience](http://monicaulma.nu/blog/6260757897345499149)
 * -------
-* ?
+* [James Armstrong](https://twitter.com/JamesA_Design)
+* [Garry Blight](https://twitter.com/pixelsquid)
+* [Feilding Cage](https://twitter.com/fcage)
+* [Seán Clarke](https://twitter.com/SeanClarke)
+* [Chris Fenn](https://twitter.com/cfen)
+* [Will Franklin](https://twitter.com/wpf500)
+* [Xaquin González Veira](https://twitter.com/xocasgv)
+* [Pablo Gutiérrez](https://twitter.com/pablo_gutierrez)
+* [Josh Holder](https://twitter.com/Josh_H)
+* [Cath Levett](https://twitter.com/CathLevett)
+* [Daan Louter](https://twitter.com/daanlouter)
+* Paul Scruton
+* [Glenn Swann](https://twitter.com/gjswann)
+* [Paul Torpey](https://twitter.com/PaulTorpey)
+* [Monica Ulmanu](https://twitter.com/monicaulmanu)
+* [Carlo Zapponi](https://twitter.com/littleark)
 
 ## Harare News
 Harare, Zimbabwe / [Flickr](https://www.flickr.com/photos/hararenewsgraphics/)
