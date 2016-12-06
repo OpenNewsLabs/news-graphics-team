@@ -81,6 +81,15 @@ New York City, US / [@BBGVisualData](https://twitter.com/BBGVisualData) / [Websi
 ## Boston Globe
 * ? 
 
+## BR Data (Bayerischer Rundfunk)
+Munich, Germany / [Website](http://br.de/data) / [Twitter](https://twitter.com/br_data) / [Github](https://github.com/br-data)
+* [Manuel Mohr](https://twitter.com/manuel_mohr)
+* [Maximilian Zierer](https://twitter.com/maxzierer)
+* [Oliver Schnuck](https://twitter.com/schnuko)
+* [Robert Schöffel](https://twitter.com/robschoeffel)
+* [Steffen Kühne](https://twitter.com/stekhn)
+* [Ulrike Köppen](https://twitter.com/zehnzehen)
+
 ## BuzzFeed News
 New York City, US / [Lisa of projects](https://github.com/BuzzFeedNews/everything) / [Github](https://github.com/BuzzFeedNews)
 * [Ben King](https://twitter.com/brknyc)
