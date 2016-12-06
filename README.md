@@ -35,11 +35,17 @@ New York City, US / [@538Viz](https://twitter.com/538viz) / [Website](https://pr
 
 ## AP Interactive
 [@AP_Interactive](https://twitter.com/AP_Interactive)
+* [Paul Cheung](https://twitter.com/pcheung630)
+* [Maureen Linke](https://twitter.com/maureenlinke)
+* [Youyou Zhou](https://twitter.com/zhoyoyo)
 * ? 
 
 ## BCC News Graphics
 London, UK / [@BBCNewsGraphics](https://twitter.com/BBCNewsGraphics) / [Website](http://www.bbc.com/news/11628973)
+* [Amanda Farnsworth](https://twitter.com/farnsa)
 * [Bella Hurrel](https://twitter.com/BellaHurrell)
+* [Christine Jeavans](https://twitter.com/chrisjeavans)
+* [Ransome Mpini](https://twitter.com/mupini)
 * ? 
 
 ## Berliner Morgenpost Interaktiv
