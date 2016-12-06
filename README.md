@@ -66,7 +66,11 @@ New York City, US / [@BBGVisualData](https://twitter.com/BBGVisualData) / [Websi
 * [Julian Burgess](https://twitter.com/aubergene)
 * [Michael Keller](https://twitter.com/mhkeller)
 * [Mira Rojanasakul](https://twitter.com/rjnskl)
-* ?
+* [Yue Qiu](https://twitter.com/YueQiu_cuj)
+* [Hayley Warren](https://twitter.com/hellococomo)
+* [Adrian Leung](https://twitter.com/ad_leung)
+* [Hannah Dormido](https://twitter.com/hannahdormido)
+* [Hannah Recht](https://twitter.com/hannah_recht)
 
 ## Boston Globe
 * ? 
