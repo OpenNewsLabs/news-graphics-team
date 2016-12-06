@@ -76,7 +76,7 @@ New York City, US / [@BBGVisualData](https://twitter.com/BBGVisualData) / [Websi
 * ? 
 
 ## BuzzFeed News
-[Github](https://github.com/BuzzFeedNews)
+New York City, US / [Lisa of projects](https://github.com/BuzzFeedNews/everything) / [Github](https://github.com/BuzzFeedNews)
 * [Ben King](https://twitter.com/brknyc)
 * [Jeremy Singer-Vine](https://twitter.com/jsvine)
 - [John Templon](https://github.com/jtemplon)
