@@ -120,6 +120,10 @@ London, UK / [@GuardianData](https://twitter.com/GuardianData) / [Website](https
 * -------
 * ?
 
+## Harare News
+Harare, Zimbabwe / [Flickr](https://www.flickr.com/photos/hararenewsgraphics/)
+* [Graham van de Ruit](https://twitter.com/GrahamvdR)
+
 ## Huffington Post Data 
 [@HuffPostData](https://twitter.com/huffpostdata) / [Website](http://data.huffingtonpost.com/) / [Github](https://github.com/huffpostdata)
 * ?
