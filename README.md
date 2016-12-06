@@ -79,13 +79,15 @@ New York City, US / [@BBGVisualData](https://twitter.com/BBGVisualData) / [Websi
 * [Hannah Recht](https://twitter.com/hannah_recht)
 
 ## Boston Globe
+Boston, US / [Website](http://www.bostonglobe.com/metro/specials/data-desk)
+* [James Abundis](https://twitter.com/GlobeAbundis)
 * ? 
 
 ## BuzzFeed News
-New York City, US / [Lisa of projects](https://github.com/BuzzFeedNews/everything) / [Github](https://github.com/BuzzFeedNews)
+New York City, US / [List of projects](https://github.com/BuzzFeedNews/everything) / [Github](https://github.com/BuzzFeedNews)
 * [Ben King](https://twitter.com/brknyc)
 * [Jeremy Singer-Vine](https://twitter.com/jsvine)
-- [John Templon](https://github.com/jtemplon)
+* [John Templon](https://github.com/jtemplon)
 * [Kendall Taggart](https://twitter.com/kendallttaggart)
 * [Peter Aldhous](https://twitter.com/paldhous)
 
