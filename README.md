@@ -125,6 +125,11 @@ London, UK / [@ECONDailyChart](https://twitter.com/ECONdailycharts)
 * [Sarah Leo](https://twitter.com/misssarahleo)
 * [Adam Meara](https://twitter.com/admeara)
 
+## eldiario.es
+Madrid, Spain / [Website](http://www.eldiario.es)  
+* [Belén Picazo](https://twitter.com/belenpicazo)
+* [Raúl Sánchez](https://twitter.com/raulsanchezglez)
+
 ## Financial Times Data
 London, UK / [@FTData](https://twitter.com/ftdata) / [Website](https://www.ft.com/ft-data) / [Blog](https://www.ft.com/chart-doctor) 
 * [Alan Smith](https://twitter.com/theboysmithy)
@@ -344,7 +349,6 @@ Berlin, Germany / [Website](http://zeit.de/datenjournalismus)
 * [Paul Blickle](https://twitter.com/colorfuldata)
 * ?
 
-<br>
 ————
 
 ### People who liked that list also like… 
@@ -352,5 +356,3 @@ Berlin, Germany / [Website](http://zeit.de/datenjournalismus)
 - [OpenNews list of newsrooms, their code and how-to articles](https://source.opennews.org/en-US/organizations/)
 - [Twitter List of Graphics Teams](https://twitter.com/archietse/lists/graphics-departments)
 - [Twitter account that tweets every time a newsroom opens a new Github repo](https://twitter.com/newsnerdrepos)
-
-
