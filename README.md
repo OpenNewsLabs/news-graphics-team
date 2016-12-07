@@ -207,6 +207,13 @@ Los Angeles, US / [@LATimesGraphics](https://twitter.com/LATimesGraphics) / [Web
 * [Joe Fox](https://twitter.com/joemfox)
 * [Angelica Quintero](https://twitter.com/aq_silva)
 
+## Minneapolis Star Tribune newsroom web team
+* [Jamie Hutt](https://twitter.com/huttj)
+* [Jeff Hargarten](https://twitter.com/JeffHargarten)
+* [Dave Braunger](https://twitter.com/davoflav)
+* [Michael Grant](https://twitter.com/mikegrantme)
+* [Billy Steve Clayton]
+
 ## MinnPost Data
 [@MinnData](https://twitter.com/MinnData) / [Website](https://www.minnpost.com/data)
 
