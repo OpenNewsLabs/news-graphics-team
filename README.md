@@ -40,7 +40,7 @@ New York City, US / [@538Viz](https://twitter.com/538viz) / [Website](https://pr
 * [Youyou Zhou](https://twitter.com/zhoyoyo)
 * ? 
 
-## BCC News Graphics
+## BBC News Graphics
 London, UK / [@BBCNewsGraphics](https://twitter.com/BBCNewsGraphics) / [Website](http://www.bbc.com/news/11628973)
 * [Amanda Farnsworth](https://twitter.com/farnsa)
 * [Bella Hurrel](https://twitter.com/BellaHurrell)
@@ -104,7 +104,11 @@ London, UK / [Website](http://www.condenastinternational.com/)
 
 ## Economist
 London, UK / [@ECONDailyChart](https://twitter.com/ECONdailycharts)
-* ? 
+* [Alex Selby-Boothroyd](https://twitter.com/alexselbyb)
+* [Graham Douglas](https://twitter.com/graham_douglas)
+* [Evan Hensleigh](https://twitter.com/futuraprime)
+* [Sarah Leo](https://twitter.com/misssarahleo)
+* [Adam Meara](https://twitter.com/admeara)
 
 ## Financial Times Data
 London, UK / [@FTData](https://twitter.com/ftdata) / [Website](https://www.ft.com/ft-data) / [Blog](https://www.ft.com/chart-doctor) 
