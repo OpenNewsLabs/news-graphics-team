@@ -210,8 +210,8 @@ Los Angeles, US / [@LATimesGraphics](https://twitter.com/LATimesGraphics) / [Web
 ## McClatchy
 Washington, D.C. U.S. / [GitHub repo](https://github.com/mcclatchy)
 
-# [Greg Linch](https://twitter.com/greglinch)
-# [Kristi Walker](https://twitter.com/kristi_walker)
+* [Greg Linch](https://twitter.com/greglinch)
+* [Kristi Walker](https://twitter.com/kristi_walker)
 
 ## Minneapolis Star Tribune newsroom web team
 * [Jamie Hutt](https://twitter.com/huttj)
