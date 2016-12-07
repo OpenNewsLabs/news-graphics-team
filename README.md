@@ -113,6 +113,10 @@ London, UK / [Website](http://www.condenastinternational.com/)
 * [Jacqui Maher](https://twitter.com/jacqui)
 * [You?](https://condenastuk.avature.net/careers/JobDetail/Interactive-Developer/737)
 
+## Discourse Media
+Vancouver, BC, Canada / [Website](http://discoursemedia.org)
+* [Caitlin Havlak](https://twitter.com/caitlinhavlak)
+
 ## Economist
 London, UK / [@ECONDailyChart](https://twitter.com/ECONdailycharts)
 * ? 
