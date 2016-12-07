@@ -225,7 +225,9 @@ Washington, D.C. U.S. / [GitHub repo](https://github.com/mcclatchy)
 
 ## National Geographic
 * [Alberto Lucas Lopez](https://twitter.com/aLucasLopez)
-* ? 
+* [Kennedy Elliott](https://twitter.com/kennelliott)
+* [Brian T. Jacobs](https://twitter.com/btjakes)
+* [Ryan Morris](https://twitter.com/rymobiz)
 
 ## NBC News
 * [Sam Petulla](https://twitter.com/spetulla)
