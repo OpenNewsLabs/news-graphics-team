@@ -76,7 +76,7 @@ New York City, US / [@BBGVisualData](https://twitter.com/BBGVisualData) / [Websi
 * [Hayley Warren](https://twitter.com/hellococomo)
 * [Adrian Leung](https://twitter.com/ad_leung)
 * [Hannah Dormido](https://twitter.com/hannahdormido)
-* [Hannah Recht](https://twitter.com/hannah_recht)
+* ?
 
 ## Boston Globe
 Boston, US / [Website](http://www.bostonglobe.com/metro/specials/data-desk)
