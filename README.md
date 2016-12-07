@@ -121,6 +121,11 @@ Vancouver, BC, Canada / [Website](http://discoursemedia.org)
 London, UK / [@ECONDailyChart](https://twitter.com/ECONdailycharts)
 * ? 
 
+## eldiario.es
+Madrid, Spain / [Website](http://www.eldiario.es)  
+* [Belén Picazo](https://twitter.com/belenpicazo)
+* [Raúl Sánchez](https://twitter.com/raulsanchezglez)
+
 ## Financial Times Data
 London, UK / [@FTData](https://twitter.com/ftdata) / [Website](https://www.ft.com/ft-data) / [Blog](https://www.ft.com/chart-doctor) 
 * [Alan Smith](https://twitter.com/theboysmithy)
@@ -339,11 +344,6 @@ Berlin, Germany / [Website](http://zeit.de/datenjournalismus)
 * [Julian Stahnke](https://twitter.com/julians)
 * [Paul Blickle](https://twitter.com/colorfuldata)
 * ?
-
-## eldiario.es
-Spain / [Website](http://www.eldiario.es)
-* [Belén Picazo](https://twitter.com/belenpicazo)
-* [Raúl Sánchez](https://twitter.com/raulsanchezglez)
 
 ————
 
