@@ -207,6 +207,12 @@ Los Angeles, US / [@LATimesGraphics](https://twitter.com/LATimesGraphics) / [Web
 * [Joe Fox](https://twitter.com/joemfox)
 * [Angelica Quintero](https://twitter.com/aq_silva)
 
+## McClatchy
+Washington, D.C. U.S. / [GitHub repo](https://github.com/mcclatchy)
+
+# [Greg Linch](https://twitter.com/greglinch)
+# [Kristi Walker](https://twitter.com/kristi_walker)
+
 ## Minneapolis Star Tribune newsroom web team
 * [Jamie Hutt](https://twitter.com/huttj)
 * [Jeff Hargarten](https://twitter.com/JeffHargarten)
