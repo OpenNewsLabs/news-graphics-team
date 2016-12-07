@@ -113,6 +113,16 @@ London, UK / [Website](http://www.condenastinternational.com/)
 * [Jacqui Maher](https://twitter.com/jacqui)
 * [You?](https://condenastuk.avature.net/careers/JobDetail/Interactive-Developer/737)
 
+## The Dallas Morning News
+Dallas, Texas / [Website](http://interactives.dallasnews.com) / [@dmninteractives](https://twitter.com/dmninteractives) / [Github](https://github.com/dallasmorningnews)
+* [Jon McClure](https://twitter.com/jonrmcclure), editor
+* [Andrew Chavez](https://twitter.com/adchavez)
+* [Ariana Giorgi](https://twitter.com/arianangiorgi)
+* [Allan James Vestal](https://twitter.com/allanjvestal)
+* [John Hancock](https://twitter.com/Hancock_JohnD), interim editor
+* [Dana Amihere](https://twitter.com/write_this_way)
+* [Layne Smith](https://twitter.com/LayneSmith)
+ 
 ## Discourse Media
 Vancouver, BC, Canada / [Website](http://discoursemedia.org)
 * [Caitlin Havlak](https://twitter.com/caitlinhavlak)
