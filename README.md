@@ -329,6 +329,16 @@ Switzerland / [@SRFData](https://twitter.com/srfdata) / [Website](http://www.srf
 * [Pascal Düblin](https://twitter.com/dublinpascal)
 * ? 
 
+## Süddeutsche Zeitung
+Munich, Germany / [Github](https://github.com/sueddeutsche), [Twitter](https://twitter.com/sz)
+* [Hauke Bendt](https://twitter.com/HaukeBendt)
+* [Katharina Brunner](https://twitter.com/cutterkom)
+* [Sabrina Ebitsch](https://twitter.com/sebitsch)
+* Sascha Goldhofer
+* [Hannes Munzinger](https://twitter.com/h_munzinger)
+* [Martina Schories](https://twitter.com/MSchories)
+* [Vanessa Wormer](https://twitter.com/remrow)
+
 ## Tagesspiegel Data
 Berlin, Germany / [@tagesspiegel](https://twitter.com/tagesspiegel)
 * [Philipp Bock](https://github.com/pbock)
