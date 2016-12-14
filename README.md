@@ -44,8 +44,14 @@ New York City, US / [@538Viz](https://twitter.com/538viz) / [Website](https://pr
 London, UK / [@BBCNewsGraphics](https://twitter.com/BBCNewsGraphics) / [Website](http://www.bbc.com/news/11628973)
 * [Amanda Farnsworth](https://twitter.com/farnsa)
 * [Bella Hurrel](https://twitter.com/BellaHurrell)
+* [John Walton](https://twitter.com/walt_jw)
 * [Christine Jeavans](https://twitter.com/chrisjeavans)
+* [Mike Hills](https://twitter.com/mikewhills)
+* [Ed Lowther](https://twitter.com/edlowther)
+* [Nassos Stylianou](https://twitter.com/nassos_)
 * [Ransome Mpini](https://twitter.com/mupini)
+* [Mark Bryson](https://twitter.com/mark_bryson)
+* [Joy Roxas](https://twitter.com/nowthatsmint)
 * ? 
 
 ## Berliner Morgenpost Interaktiv
