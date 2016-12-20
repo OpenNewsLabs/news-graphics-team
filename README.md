@@ -386,12 +386,13 @@ New York City, US / [@WSJGraphics](https://twitter.com/WSJGraphics) / [Website](
 
 ## The Washington Post
 Washington, D.C. / [@PostGraphics](https://twitter.com/PostGraphics)
-* [Chris Alcantara](https://twitter.com/chrisalcantara)
+
 * [Bonnie Berkowitz](https://twitter.com/bonnieberkowitz)
 * [Seth Blanchard](https://twitter.com/SethBlanchard)
 * [Darla Cameron](https://twitter.com/darlacameron)
 * [Kat Downs](https://twitter.com/katdowns)
 * [Chiqui Esteban](https://twitter.com/chiquiesteban)
+* [Chris Alcantara](https://twitter.com/chrisalcantara)
 * [Lazaro Gamio](https://twitter.com/LazaroGamio)
 * [Samuel Granados](https://twitter.com/samugranados)
 * [Kaeti Hinck](https://twitter.com/kaeti)
@@ -402,12 +403,12 @@ Washington, D.C. / [@PostGraphics](https://twitter.com/PostGraphics)
 * [Ted Mellnik](https://twitter.com/tmellnik)
 * [John Muyskens](https://twitter.com/JohnMuyskens)
 * [Cristina Rivero](https://twitter.com/criverotwp)
-* [Leslie Shapiro](https://twitter.com/lmshap)
 * [Kevin Schaul](https://twitter.com/kevinschaul)
+* [Leslie Shapiro](https://twitter.com/lmshap)
 * [Kim Soffen](https://twitter.com/kimsoffen)
 * [Shelly Tan](https://twitter.com/Tan_Shelly)
 * [Kevin Uhrmacher](https://twitter.com/KevinUhrm)
-* [Aaron Williams](https://twitter.com/aboutaaron)
+
 
 ## ZEIT Online
 Berlin, Germany / [Website](http://zeit.de/datenjournalismus)
