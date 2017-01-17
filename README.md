@@ -188,6 +188,12 @@ London, UK / [@GuardianData](https://twitter.com/GuardianData) / [Website](https
 Harare, Zimbabwe / [Flickr](https://www.flickr.com/photos/hararenewsgraphics/)
 * [Graham van de Ruit](https://twitter.com/GrahamvdR)
 
+## Helsingin Sanomat
+Helsinki, Finland [Website](http://www.hs.fi/) 
+* [Esa Mäkinen](https://twitter.com/EsaMakinen)
+* [Juhani Saarinen](https://twitter.com/juhanisaarinen)
+* [Olavi Koistinen](https://twitter.com/olavikoistinen)
+
 ## Huffington Post Data 
 [@HuffPostData](https://twitter.com/huffpostdata) / [Website](http://data.huffingtonpost.com/) / [Github](https://github.com/huffpostdata) / [Tumblr](http://huffpostgraphics.tumblr.com/)
 * [Adam Hooper](https://twitter.com/adamhooper)
