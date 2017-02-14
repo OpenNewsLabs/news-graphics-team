@@ -314,6 +314,13 @@ New York City, US / [Website](https://www.propublica.org/data/)
 * [Sarah Slobin](https://twitter.com/sarahslo)
 * ? 
 
+## Radio Canada
+[@icilepoint](https://twitter.com/icilepoint) / [Website](http://ici.radio-canada.ca/)
+* [Santiago Salcido](https://twitter.com/santiagosalcido)
+* [Melanie Julien](https://twitter.com/Melanie_Julien)
+* [Eric Larouche](https://twitter.com/EricLarouche)
+* ?
+
 ## Reuters Graphics
 [@ReutersGraphics](https://twitter.com/ReutersGraphics)
 * ? 
