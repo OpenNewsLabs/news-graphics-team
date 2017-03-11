@@ -372,6 +372,12 @@ London, UK / [@TimesDevelops](https://twitter.com/timesdevelops) / [Blog](https:
 * [Sam Joiner](https://twitter.com/samjoiner)
 * [Peter Yeung](https://twitter.com/ptr_yeung)
 
+## TIME Magazine
+Washington, DC / [Github] (https://github.com/TimeMagazine)
+* [Christopher Wilson] (https://twitter.com/chriswilsondc)
+* [David Johnson] (https://twitter.com/davejohndc)
+* [Pratheek Rebala] (https://twitter.com/pratheekrebala)
+
 ## Vice News
 * [Allison McCann](https://twitter.com/atmccann)
 * [Kenton Powell](https://twitter.com/kentonwpowell)
