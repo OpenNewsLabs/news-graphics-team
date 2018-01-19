@@ -52,6 +52,7 @@ London, UK / [@BBCNewsGraphics](https://twitter.com/BBCNewsGraphics) / [Website]
 * [Ransome Mpini](https://twitter.com/mupini)
 * [Mark Bryson](https://twitter.com/mark_bryson)
 * [Joy Roxas](https://twitter.com/nowthatsmint)
+* [Daniele Palumbo](https://twitter.com/Danict89)
 * ? 
 
 ## Berliner Morgenpost Interaktiv
@@ -198,11 +199,6 @@ Helsinki, Finland [Website](http://www.hs.fi/)
 [@HuffPostData](https://twitter.com/huffpostdata) / [Website](http://data.huffingtonpost.com/) / [Github](https://github.com/huffpostdata) / [Tumblr](http://huffpostgraphics.tumblr.com/)
 * [Adam Hooper](https://twitter.com/adamhooper)
 * [Alissa Scheller](https://twitter.com/alissascheller)
-
-## International Business Times
-[@IBTimesUK](https://twitter.com/IBTimesUK) / [Temporary page](http://www.ibtimes.co.uk/reporters/daniele-palumbo)
-* [Daniele Palumbo](https://twitter.com/Danict89)
-* ?
 
 ## Los Angeles Times Graphics
 Los Angeles, US / [@LATimesGraphics](https://twitter.com/LATimesGraphics) / [Website](http://www.latimes.com/projects/) / [Github](https://github.com/datadesk)
