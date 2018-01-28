@@ -383,6 +383,7 @@ New York City, US / [@WSJGraphics](https://twitter.com/WSJGraphics) / [Website](
 * [Shane Shifflett](https://twitter.com/shaneshifflett)
 * ? 
 
+## The Washington Post
 Washington, D.C. / [@PostGraphics](https://twitter.com/PostGraphics)
 * [Chris Alcantara](https://twitter.com/chrisalcantara)
 * [Bonnie Berkowitz](https://twitter.com/bonnieberkowitz)
