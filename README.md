@@ -403,7 +403,7 @@ Washington, D.C. / [@PostGraphics](https://twitter.com/PostGraphics)
 * [Leslie Shapiro](https://twitter.com/lmshap)
 * [Kim Soffen](https://twitter.com/kimsoffen)
 * [Shelly Tan](https://twitter.com/Tan_Shelly)
-* [Lauren Tierney](https://twitter.com/tierneyl)]
+* [Lauren Tierney](https://twitter.com/tierneyl)
 * [Kevin Uhrmacher](https://twitter.com/KevinUhrm)
 * [Aaron Williams](https://twitter.com/aboutaaron)
 
