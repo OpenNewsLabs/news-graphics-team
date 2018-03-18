@@ -23,7 +23,7 @@ Visual journalists, graphics reporters or however they call themselves are doing
 <br><br>
 
 ## Associated Press
-Washignton, D.C. and New York, New York
+Washignton, D.C.; New York, New York;
 
 [Twitter](https://twitter.com/AP_Interactive)
 
@@ -33,6 +33,7 @@ Washignton, D.C. and New York, New York
 
 ## Axios
 Washington, D.C.
+
 [Twitter](https://twitter.com/AxiosVisuals)
 
 
@@ -43,6 +44,7 @@ Washington, D.C.
 
 ## BBC News
 London, United Kingdom
+
 [Twitter](https://twitter.com/BBCNewsGraphics) | [Website](http://www.bbc.com/news/11628973)
 
 * [Amanda Farnsworth](https://twitter.com/farnsa)
@@ -59,6 +61,7 @@ London, United Kingdom
 
 ## Berliner Morgenpost
 Berlin, Germany
+
 [Website](http://www.morgenpost.de/interaktiv/) | [Github](https://github.com/berlinermorgenpost)
 
 * [André Pätzold](https://twitter.com/alterpaetz)
@@ -69,6 +72,7 @@ Berlin, Germany
 
 ## Bloomberg
 New York, New York; Washington, D.C.; Hong Kong;
+
 [Twitter](https://twitter.com/BBGVisualData) | [Website](http://www.bloomberg.com/graphics)
 
 2014: [Lisa Strausfeld & Christopher Cannon: From Explanation to Exploration](https://www.youtube.com/watch?v=Qm4Ilw76hTI)
@@ -90,6 +94,7 @@ New York, New York; Washington, D.C.; Hong Kong;
 
 ## The Boston Globe
 Boston, Massachusetts
+
 [Website](http://www.bostonglobe.com/metro/specials/data-desk)
 
 
@@ -98,6 +103,7 @@ Boston, Massachusetts
 
 ## Bayerischer Rundfunk
 Munich, Germany
+
 [Twitter](https://twitter.com/br_data) | [Website](http://br.de/data) | [Github](https://github.com/br-data)
 
 
@@ -110,7 +116,8 @@ Munich, Germany
 
 ## BuzzFeed News
 New York, New York
-[Twitter](https://www.twitter.com/buzzfeednews) | [Github](https://github.com/BuzzFeedNews)
+
+[Twitter](https://www.twitter.com/buzzfeednews) | [GitHub](https://github.com/BuzzFeedNews)
 
 * [Jeremy Singer-Vine](https://twitter.com/jsvine)
 * [John Templon](https://github.com/jtemplon)
@@ -120,12 +127,15 @@ New York, New York
 ## The Center for Public Integrity
 Washington, D.C.
 
+[GitHub](https://github.com/PublicI)
+
 * [Chris Zubak-Skees](https://twitter.com/zubakskees)
 * [Pratheek Rebala](https://twitter.com/pratheekrebala)
 
 
 ## Chronicle of Higher Education
 Washington, D.C.
+
 [Twitter](https://twitter.com/chrondata) | [Website](http://chrondata.github.io/)
 
 
@@ -142,7 +152,8 @@ New York, New York;
 
 ## The Dallas Morning News
 Dallas, Texas
-[Twitter](https://twitter.com/dmninteractives) | [Website](http://interactives.dallasnews.com) |  [Github](https://github.com/dallasmorningnews)
+
+[Twitter](https://twitter.com/dmninteractives) | [Website](http://interactives.dallasnews.com) |  [GitHub](https://github.com/dallasmorningnews)
 
 
 * [Allan James Vestal](https://twitter.com/allanjvestal)
@@ -161,6 +172,7 @@ Vancouver, British Columbia
 
 ## The Economist
 London, United Kingdom
+
 [Twitter](https://twitter.com/ECONdailycharts)
 
 
@@ -179,6 +191,7 @@ Madrid, Spain
 
 ## Financial Times
 London, United Kingdom
+
 [Twitter](https://twitter.com/ftdata) | [Website](https://www.ft.com/ft-data) | [Blog](https://www.ft.com/chart-doctor)
 
 * [Alan Smith](https://twitter.com/theboysmithy)
@@ -189,7 +202,8 @@ London, United Kingdom
 
 ## Five Thirty Eight
 New York, New York
-[Twitter](https://twitter.com/538viz) | [Website](https://projects.fivethirtyeight.com/) | [Github](https://github.com/fivethirtyeight)
+
+[Twitter](https://twitter.com/538viz) | [Website](https://projects.fivethirtyeight.com/) | [GitHub](https://github.com/fivethirtyeight)
 2016: [Andrew Flowers: FiveThirtyEight's data journalism workflow with R](https://www.youtube.com/watch?v=1LujBaF1-4Y)
 2016: [FiveThirtyEight - Quickdraw Episode 01](https://vimeo.com/178735118)
 
@@ -200,6 +214,7 @@ New York, New York
 
 ## The Guardian
 London, United Kingdom
+
 [Twitter](https://twitter.com/GuardianVisuals)
 
 2011: [Alastair Dant: Data visualization & The Guardian: Reporting big stories through small details](https://vimeo.com/29700897)
@@ -229,13 +244,15 @@ Helsinki, Finland
 
 ## Huffington Post
 New York, New York
-[Twitter](https://twitter.com/huffpostdata) | [Website](http://data.huffingtonpost.com/) | [Github](https://github.com/huffpostdata) | [Tumblr](http://huffpostgraphics.tumblr.com/)
+
+[Twitter](https://twitter.com/huffpostdata) | [Website](http://data.huffingtonpost.com/) | [GitHub](https://github.com/huffpostdata) | [Tumblr](http://huffpostgraphics.tumblr.com/)
 
 * [Alissa Scheller](https://twitter.com/alissascheller)
 
 ## The Los Angeles Times
 Los Angeles, California
-[Twitter](https://twitter.com/LATimesGraphics) | [Website](http://www.latimes.com/projects/) | [Github](https://github.com/datadesk)
+
+[Twitter](https://twitter.com/LATimesGraphics) | [Website](http://www.latimes.com/projects/) | [GitHub](https://github.com/datadesk)
 
 
 * [Ben Welsh](https://twitter.com/palewire)
@@ -263,6 +280,7 @@ Minneapolis, Minnesota
 
 ## MinnPost
 Minneapolis, Minnesota
+
 [Twitter](https://twitter.com/MinnData) | [Website](https://www.minnpost.com/data)
 
 
@@ -278,6 +296,7 @@ Washington, D.C.
 
 ## New York Times
 New York, New York
+
 [Twitter](https://twitter.com/nytgraphics)
  2011: [Amanda Cox: Shaping Data for News](https://vimeo.com/29391942)
  2012: [The New York Times (Interview with Steven Duenes)](https://vimeo.com/39753148)
@@ -311,6 +330,7 @@ New York, New York
 
 ## NPR
 Washington, D.C.
+
 [Twitter](https://twitter.com/nprviz) | [Website](http://blog.apps.npr.org/) | [Blog](http://blog.apps.npr.org/blog/)
 
 2015: [Alyson Hurt – Data Visualization on a Deadline](https://www.youtube.com/watch?v=c327ir3qvEo)
@@ -323,6 +343,7 @@ Washington, D.C.
 
 ## NZZ
 Zurich, Switzerland
+
 [Twitter](https://twitter.com/NZZStorytelling) | [Website](https://www.nzz.ch/storytelling)
 * [David Bauer](https://twitter.com/davidbauer)
 * [Beni Buess](https://twitter.com/benibu)
@@ -353,6 +374,7 @@ New York, New York
 * [Sisi Wei](https://twitter.com/sisiwei)
 
 ## Quartz Things
+
 New York, New York | [Twitter](https://twi/ter.com/quartzthings) | [Website](http://qz.com/re/quartzthings/)
 
 
@@ -362,6 +384,7 @@ New York, New York | [Twitter](https://twi/ter.com/quartzthings) | [Website](htt
 * [Youyou Zhou](https://twitter.com/zhoyoyo)
 
 ## Radio Canada
+
 [Twitter](https://twitter.com/icilepoint) | [Website](http://ici.radio-canada.ca/)
 Monteral, Quebec
 
@@ -372,6 +395,7 @@ Monteral, Quebec
 
 
 ## Reuters
+
 [Twitter](https://twitter.com/ReutersGraphics)
 New York, New York; Singapore;
 
@@ -385,6 +409,7 @@ Fort Lauderdale, Florida
 * [Yiran Zhu](https://twitter.com/ZYiran)
 
 ## South China Morning Post
+
 [Twitter](https://twitter.com/SCMPgraphics)
 Hong Kong, China
 
@@ -393,7 +418,7 @@ Hong Kong, China
 
 ## Spiegel
 Hamburg, Germany
-[Github](https://github.com/spiegelonline)
+[GitHub](https://github.com/spiegelonline)
 
 
 * [Christina Elmer](https://twitter.com/ChElm)
@@ -401,6 +426,7 @@ Hamburg, Germany
 
 ## SRF
 Zurich, Switzerland
+
 [Twitter](https://twitter.com/srfdata) | [Website](http://www.srf.ch/news/srf-data?srg_shorturl_source=data)
 
 
@@ -410,7 +436,8 @@ Zurich, Switzerland
 
 ## Süddeutsche Zeitung
 Munich, Germany
-[Twitter](https://twitter.com/sz) | [Github](https://github.com/sueddeutsche)
+
+[Twitter](https://twitter.com/sz) | [GitHub](https://github.com/sueddeutsche)
 
 
 * [Hannes Munzinger](https://twitter.com/h_munzinger)
@@ -422,6 +449,7 @@ Munich, Germany
 
 ## The Tampa Bay Times
 St. Petersburg, Florida
+
 [Twitter](https://twitter.com/tbtprojx)
 * [Eli Murray](https://twitter.com/Eli_Mur)
 * [Nathaniel Lash](https://twitter.com/Nat_Lash)
@@ -432,6 +460,7 @@ St. Petersburg, Florida
 
 ## The Texas Tribune
 Austin, Texas
+
 [Twitter](https://twitter.com/newsapps)
 
 * [Annie Daniel](https://twitter.com/anieldaniel)
@@ -444,7 +473,8 @@ Austin, Texas
 
 ## The Times and Sunday Times
 London, United Kingdom
-[Twitter](https://twitter.com/timesdevelops) | [Blog](https://medium.com/digital-times) | [Github](https://github.com/times)
+
+[Twitter](https://twitter.com/timesdevelops) | [Blog](https://medium.com/digital-times) | [GitHub](https://github.com/times)
 
 
 * [Basile Simon](https://twitter.com/basilesimon)
@@ -457,7 +487,7 @@ London, United Kingdom
 
 ## TIME
 Washington, D.C.
-[Github](https://github.com/TimeMagazine)
+[GitHub](https://github.com/TimeMagazine)
 
 * [Christopher Wilson](https://twitter.com/chriswilsondc)
 * [David Johnson](https://twitter.com/davejohndc)
@@ -471,6 +501,7 @@ New York, New York
 * [Mike Deal](https://twitter.com/dealville)
 
 ## Vox Storytelling Studio
+
 Washington, D.C.; New York, New York
 [Twitter](https://twitter.com/voxstorytelling) | [Blog](https://storytelling.voxmedia.com/)
 
@@ -483,7 +514,8 @@ Washington, D.C.; New York, New York
 
 ## Wall Street Journal
 New York, New York; London, England;
-[Twitter](https://twitter.com/WSJGraphics) | [Website](http://graphics.wsj.com/) | [Github](https://github.com/wsj)
+
+[Twitter](https://twitter.com/WSJGraphics) | [Website](http://graphics.wsj.com/) | [GitHub](https://github.com/wsj)
 
 
 * [Ana Rivas](https://twitter.com/anarivasWSJ)
@@ -520,6 +552,7 @@ New York, New York; London, England;
 
 ## The Washington Post
 Washington, D.C.
+
 [Twitter](https://twitter.com/PostGraphics) | [Tumblr](http://postgraphics.tumblr.com/)
 
 * [Aaron Williams](https://twitter.com/aboutaaron)
@@ -557,5 +590,7 @@ Berlin, Germany
 ### People who liked that list also like…
 - [List of Awesome Interactive Journalism projects](https://github.com/wbkd/awesome-interactive-journalism)
 - [OpenNews list of newsrooms, their code and how-to articles](https://source.opennews.org/en-US/organizations/)
+
 - [Twitter List of Graphics Teams](https://twitter.com/archietse/lists/graphics-departments)
+
 - [Twitter account that tweets every time a newsroom opens a new Github repo](https://twitter.com/newsnerdrepos)
