@@ -23,8 +23,10 @@ Visual journalists, graphics reporters or however they call themselves are doing
 <br><br>
 
 ## Associated Press
-Washignton, D.C.; New York, New York;
+Washignton, D.C. and New York, New York
+
 [Twitter](https://twitter.com/AP_Interactive)
+
 
 * [Maureen Linke](https://twitter.com/maureenlinke)
 
