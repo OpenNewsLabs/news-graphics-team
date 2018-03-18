@@ -209,10 +209,15 @@ New York, New York
 
 2016: [FiveThirtyEight - Quickdraw Episode 01](https://vimeo.com/178735118)
 
+* [Aaron Bycoffe](https://twitter.com/bycoffe)
+* [Andrei Scheinkman](https://twitter.com/ascheink)
+* [Dhrumil Mehta](https://twitter.com/datadhrumil)
 * [Ella Koeze](https://twitter.com/ellawinthrop)
-* [Matthew Conlen](https://twitter.com/mathisonian)
-* [Ritchie King](https://twitter.com/RitchieSKing)
+* [Gus Wezerk](https://twitter.com/guswez)
 * [Julia Wolfe](https://twitter.com/juruwolfe)
+* [Matthew Conlen](https://twitter.com/mathisonian)
+* [Rachael Dottle](https://twitter.com/rachaeldottle)
+* [Ritchie King](https://twitter.com/RitchieSKing)
 
 ## The Guardian
 London, England
