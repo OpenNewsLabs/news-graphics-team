@@ -206,6 +206,7 @@ New York, New York
 [Twitter](https://twitter.com/538viz) | [Website](https://projects.fivethirtyeight.com/) | [GitHub](https://github.com/fivethirtyeight)
 
 2016: [Andrew Flowers: FiveThirtyEight's data journalism workflow with R](https://www.youtube.com/watch?v=1LujBaF1-4Y)
+
 2016: [FiveThirtyEight - Quickdraw Episode 01](https://vimeo.com/178735118)
 
 * [Ella Koeze](https://twitter.com/ellawinthrop)
