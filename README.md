@@ -23,7 +23,7 @@ Visual journalists, graphics reporters or however they call themselves are doing
 <br><br>
 
 ## Associated Press
-Washignton, D.C.; New York, New York;
+Washignton, D.C. and New York, New York
 
 [Twitter](https://twitter.com/AP_Interactive)
 
@@ -71,7 +71,7 @@ Berlin, Germany
 * [Moritz Klack](https://twitter.com/moklick)
 
 ## Bloomberg
-New York, New York; Washington, D.C.; Hong Kong;
+New York, New York; Washington, D.C.; and Hong Kong;
 
 [Twitter](https://twitter.com/BBGVisualData) | [Website](http://www.bloomberg.com/graphics)
 
@@ -146,7 +146,7 @@ Washington, D.C.
 * [Peter Olsen-Phillips](https://twitter.com/POlsenPhillips)
 
 ## CNN
-New York, New York;
+New York, New York
 
 * [Sam Petulla](https://twitter.com/spetulla)
 
@@ -397,7 +397,7 @@ Monteral, Quebec
 ## Reuters
 
 [Twitter](https://twitter.com/ReutersGraphics)
-New York, New York; Singapore;
+New York, New York and Singapore
 
 * [Simon Scarr](https://twitter.com/SimonScarr)
 * [Weiyi Cai](https://twitter.com/dawncai624)
@@ -502,7 +502,7 @@ New York, New York
 
 ## Vox Storytelling Studio
 
-Washington, D.C.; New York, New York
+Washington, D.C. and New York, New York
 [Twitter](https://twitter.com/voxstorytelling) | [Blog](https://storytelling.voxmedia.com/)
 
 
@@ -513,7 +513,7 @@ Washington, D.C.; New York, New York
 * [Tyson Whiting](https://twitter.com/tyson_whiting)
 
 ## Wall Street Journal
-New York, New York; London, England;
+New York, New York and London, England
 
 [Twitter](https://twitter.com/WSJGraphics) | [Website](http://graphics.wsj.com/) | [GitHub](https://github.com/wsj)
 
