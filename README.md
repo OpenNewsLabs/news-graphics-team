@@ -23,13 +23,10 @@ Visual journalists, graphics reporters or however they call themselves are doing
 <br><br>
 
 ## Associated Press
-[Twitter](https://twitter.com/AP_Interactive)
-
+Washignton, D.C.; New York, New York; / [Twitter](https://twitter.com/AP_Interactive)
 
 * [Maureen Linke](https://twitter.com/maureenlinke)
-* [Paul Cheung](https://twitter.com/pcheung630)
-* [Youyou Zhou](https://twitter.com/zhoyoyo)
-* ?
+
 
 ## Axios
 Washington, D.C. / [Twitter](https://twitter.com/AxiosVisuals)
@@ -50,12 +47,11 @@ London, United Kingdom / [Twitter](https://twitter.com/BBCNewsGraphics) / [Websi
 * [Daniele Palumbo](https://twitter.com/Danict89)
 * [Ed Lowther](https://twitter.com/edlowther)
 * [John Walton](https://twitter.com/walt_jw)
-* [Joy Roxas](https://twitter.com/nowthatsmint)
+* [Joy Roxas](https://twitter.com/joy___r)
 * [Mark Bryson](https://twitter.com/mark_bryson)
 * [Mike Hills](https://twitter.com/mikewhills)
 * [Nassos Stylianou](https://twitter.com/nassos_)
 * [Ransome Mpini](https://twitter.com/mupini)
-* ?
 
 ## Berliner Morgenpost
 Berlin, Germany / [Website](http://www.morgenpost.de/interaktiv/) / [Github](https://github.com/berlinermorgenpost)
@@ -66,11 +62,11 @@ Berlin, Germany / [Website](http://www.morgenpost.de/interaktiv/) / [Github](htt
 * [David Wendler](https://twitter.com/newreld)
 * [Julius Tröger](https://twitter.com/juliustroeger)
 * [Moritz Klack](https://twitter.com/moklick)
-* ?
 
 ## Bloomberg
 New York, New York; Washington, D.C.; Hong Kong; / [@BBGVisualData](https://twitter.com/BBGVisualData) / [Website](http://www.bloomberg.com/graphics)
-* 2014: [Lisa Strausfeld & Christopher Cannon: From Explanation to Exploration](https://www.youtube.com/watch?v=Qm4Ilw76hTI)
+
+2014: [Lisa Strausfeld & Christopher Cannon: From Explanation to Exploration](https://www.youtube.com/watch?v=Qm4Ilw76hTI)
 
 
 * [Adrian Leung](https://twitter.com/ad_leung)
@@ -84,7 +80,6 @@ New York, New York; Washington, D.C.; Hong Kong; / [@BBGVisualData](https://twit
 * [Hayley Warren](https://twitter.com/hellococomo)
 * [Jeremy Scott Diamond](https://twitter.com/_jsdiamond)
 * [Julian Burgess](https://twitter.com/aubergene)
-* [Michael Keller](https://twitter.com/mhkeller)
 * [Mira Rojanasakul](https://twitter.com/rjnskl)
 * [Yue Qiu](https://twitter.com/YueQiu_cuj)
 
@@ -297,6 +292,7 @@ New York, New Yorl / [Twitter](https://twitter.com/nytgraphics)
 * [Jonathan Corum](https://twitter.com/13pt)
 * [Josh Katz](https://twitter.com/jshkatz)
 * [Josh Keller](https://twitter.com/joshkellerjosh)
+* [Michael Keller](https://twitter.com/mhkeller)
 * [Karen Yourish](https://twitter.com/karenyourish)
 * [Kevin Quealy](https://twitter.com/KevinQ)
 * [Larry Buchanan](https://twitter.com/larrybuch)
