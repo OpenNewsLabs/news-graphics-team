@@ -43,7 +43,7 @@ Washington, D.C.
 * [Rebecca Zisser](https://twitter.com/rebeccazisser)
 
 ## BBC News
-London, United Kingdom
+London, England
 
 [Twitter](https://twitter.com/BBCNewsGraphics) | [Website](http://www.bbc.com/news/11628973)
 
@@ -171,7 +171,7 @@ Vancouver, British Columbia
 * [Caitlin Havlak](https://twitter.com/caitlinhavlak)
 
 ## The Economist
-London, United Kingdom
+London, England
 
 [Twitter](https://twitter.com/ECONdailycharts)
 
@@ -190,7 +190,7 @@ Madrid, Spain
 * [Raúl Sánchez](https://twitter.com/raulsanchezglez)
 
 ## Financial Times
-London, United Kingdom
+London, England
 
 [Twitter](https://twitter.com/ftdata) | [Website](https://www.ft.com/ft-data) | [Blog](https://www.ft.com/chart-doctor)
 
@@ -215,12 +215,14 @@ New York, New York
 * [Julia Wolfe](https://twitter.com/juruwolfe)
 
 ## The Guardian
-London, United Kingdom
+London, England
 
 [Twitter](https://twitter.com/GuardianVisuals)
 
 2011: [Alastair Dant: Data visualization & The Guardian: Reporting big stories through small details](https://vimeo.com/29700897)
+
 2015: [Aron Pilhofer: Rebooting a 200-year-old startup](https://www.youtube.com/watch?t=35&v=qOYi_VTk99A)
+
 2016: [Monica Ulmanu: A small canvas for a large audience](http://monicaulma.nu/blog/6260757897345499149)
 
 
@@ -300,11 +302,17 @@ Washington, D.C.
 New York, New York
 
 [Twitter](https://twitter.com/nytgraphics)
+
  2011: [Amanda Cox: Shaping Data for News](https://vimeo.com/29391942)
+
  2012: [The New York Times (Interview with Steven Duenes)](https://vimeo.com/39753148)
+
  2014: [Mike Rostock – Design is a Search Problem](https://www.youtube.com/watch?v=fThhbt23SGM)
+
  2015: [Hannah Fairfield – The Power of the Reveal](https://www.youtube.com/watch?v=5A0DczzXyk4)
+
  2016: [Archie Tse – Why We Are Doing Fewer Interactives](https://github.com/archietse/malofiej-2016/blob/master/tse-malofiej-2016-slides.pdf)
+
  2016: [Gregor Aisch - Data visualization and the news](https://vimeo.com/182590214)
 
 
@@ -375,9 +383,10 @@ New York, New York
 * [Scott Klein](https://twitter.com/kleinmatic)
 * [Sisi Wei](https://twitter.com/sisiwei)
 
-## Quartz Things
+## Quartz
 
-New York, New York | [Twitter](https://twi/ter.com/quartzthings) | [Website](http://qz.com/re/quartzthings/)
+New York, New York
+[Twitter](https://twi/ter.com/quartzthings) | [Website](http://qz.com/re/quartzthings/)
 
 
 * [David Yanofsky](https://twitter.com/YAN0)
@@ -398,28 +407,30 @@ Monteral, Quebec
 
 ## Reuters
 
-[Twitter](https://twitter.com/ReutersGraphics)
 New York, New York and Singapore
+
+[Twitter](https://twitter.com/ReutersGraphics)
 
 * [Simon Scarr](https://twitter.com/SimonScarr)
 * [Weiyi Cai](https://twitter.com/dawncai624)
 
 
-## The South Florida Sun-Sentinal
+## The South Florida Sun-Sentinel
 Fort Lauderdale, Florida
 
 * [Yiran Zhu](https://twitter.com/ZYiran)
 
 ## South China Morning Post
+Hong Kong, China
 
 [Twitter](https://twitter.com/SCMPgraphics)
-Hong Kong, China
 
 * [Adolfo Arranz](https://twitter.com/adolfux)
 * [Darren Long](https://twitter.com/darrenlonghk)
 
 ## Spiegel
 Hamburg, Germany
+
 [GitHub](https://github.com/spiegelonline)
 
 
@@ -453,11 +464,12 @@ Munich, Germany
 St. Petersburg, Florida
 
 [Twitter](https://twitter.com/tbtprojx)
-* [Eli Murray](https://twitter.com/Eli_Mur)
-* [Nathaniel Lash](https://twitter.com/Nat_Lash)
+
 * [Adam Playford](https://twitter.com/adamplayford)
-* [Lauren Flannery](https://twitter.com/LaurenFlannery3)
+* [Eli Murray](https://twitter.com/Eli_Mur)
 * [Langston Taylor](https://twitter.com/LangstonITaylor)
+* [Lauren Flannery](https://twitter.com/LaurenFlannery3)
+* [Nathaniel Lash](https://twitter.com/Nat_Lash)
 
 
 ## The Texas Tribune
@@ -474,7 +486,7 @@ Austin, Texas
 
 
 ## The Times and Sunday Times
-London, United Kingdom
+London, England
 
 [Twitter](https://twitter.com/timesdevelops) | [Blog](https://medium.com/digital-times) | [GitHub](https://github.com/times)
 
@@ -502,9 +514,10 @@ New York, New York
 * [Kenton Powell](https://twitter.com/kentonwpowell)
 * [Mike Deal](https://twitter.com/dealville)
 
-## Vox Storytelling Studio
+## Vox
 
 Washington, D.C. and New York, New York
+
 [Twitter](https://twitter.com/voxstorytelling) | [Blog](https://storytelling.voxmedia.com/)
 
 
@@ -568,7 +581,6 @@ Washington, D.C.
 * [Kaeti Hinck](https://twitter.com/kaeti)
 * [Kevin Schaul](https://twitter.com/kevinschaul)
 * [Kevin Uhrmacher](https://twitter.com/KevinUhrm)
-* [Kim Soffen](https://twitter.com/kimsoffen)
 * [Laris Karklis](https://twitter.com/KarklisCarto)
 * [Lauren Tierney](https://twitter.com/tierneyl)
 * [Leslie Shapiro](https://twitter.com/lmshap)
