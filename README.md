@@ -71,6 +71,7 @@ Berlin, Germany
 * [Christopher Möller](https://twitter.com/chrtze)
 * [David Wendler](https://twitter.com/newreld)
 * [Julius Tröger](https://twitter.com/juliustroeger)
+* [Marie-Louise Timcke](https://twitter.com/datentaeterin)
 * [Moritz Klack](https://twitter.com/moklick)
 
 ## Bloomberg
