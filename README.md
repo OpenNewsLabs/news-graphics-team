@@ -439,11 +439,12 @@ Hong Kong, China
 ## Spiegel
 Hamburg, Germany
 
-[GitHub](https://github.com/spiegelonline)
-
+[Twitter](https://twitter.com/SPIEGEL_Data) | [Website](http://www.spiegel.de/wissenschaft/datenlese/)
 
 * [Christina Elmer](https://twitter.com/ChElm)
+* [Marcel Pauly](https://twitter.com/marcelpauly)
 * [Patrick Stotz](https://twitter.com/PatrickStotz)
+* [Achim Tack](https://twitter.com/A_Tack)
 
 ## SRF
 Zurich, Switzerland
