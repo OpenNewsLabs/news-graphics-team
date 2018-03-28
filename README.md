@@ -26,7 +26,7 @@ This list focuses not on their [projects](https://github.com/wbkd/awesome-intera
 <br><br>
 
 ## Associated Press
-Washignton, D.C. and New York, New York
+Washington, D.C. and New York, New York
 
 [Twitter](https://twitter.com/AP_Interactive)
 
@@ -177,14 +177,30 @@ Vancouver, British Columbia
 ## The Economist
 London, England
 
-[Twitter](https://twitter.com/ECONdailycharts)
+[Twitter](https://twitter.com/ECONdailycharts) | [Website](https://www.economist.com/blogs/graphicdetail)
 
+2017: [Graham Douglas—Medium post about the science of forecasting](https://medium.economist.com/the-science-of-forecasting-is-getting-better-probably-883abc1cd155)
+
+2017: [James Fransham—Medium post about the team's workflow with signal + noise](https://medium.economist.com/an-anatomy-of-murder-20ef83346d37)
+
+2018: [Marie Segger—Medium post about data journalism and social media](https://medium.com/severe-contest/spotlight-on-data-journalism-858ccaae7e5)
 
 * [Adam Meara](https://twitter.com/admeara)
 * [Alex Selby-Boothroyd](https://twitter.com/alexselbyb)
+* [Dan Rosenheck](https://twitter.com/DanRosenheck)
+* [David McKelvey](https://twitter.com/aylon14)
+* [Doug Dowson](https://twitter.com/doug_dowson)
 * [Evan Hensleigh](https://twitter.com/futuraprime)
 * [Graham Douglas](https://twitter.com/graham_douglas)
+* [Guy Scriven](https://twitter.com/guyscriven)
+* [Helen Atkinson](https://twitter.com/baskerhel )
+* [James Fransham](https://twitter.com/JamesFransham)
+* [Lloyd Parker](https://twitter.com/p_lloydy)
+* [Martin Gonzalez](https://twitter.com/martgnz)
+* [Matt McLean](https://twitter.com/MatterofMatt)
 * [Sarah Leo](https://twitter.com/misssarahleo)
+* [Slavea Chankova](https://twitter.com/SlaveaChankova)
+* [Wade Zhou](https://twitter.com/wade_zhou)
 
 ## El Diario
 Madrid, Spain
