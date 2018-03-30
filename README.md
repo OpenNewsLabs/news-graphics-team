@@ -32,6 +32,7 @@ Washington, D.C. and New York, New York
 
 
 * [Maureen Linke](https://twitter.com/maureenlinke)
+* [Nicky Forster](https://twitter.com/nickyaforster)
 
 
 ## Axios
