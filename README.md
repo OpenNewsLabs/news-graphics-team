@@ -169,6 +169,11 @@ Dallas, Texas
 * [Layne Smith](https://twitter.com/LayneSmith)
 * [Stephanie Lamm](https://twitter.com/stephanierlamm)
 
+## Delovoi Peterburg
+Saint Petersburg, Russia
+
+* [Andrey Dorozhnij (Дорожный Андрей)](https://twitter.com/dorozhnij)
+
 ## Discourse Media
 Vancouver, British Columbia
 [Website](http://discoursemedia.org)
