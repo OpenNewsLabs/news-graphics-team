@@ -225,6 +225,11 @@ London, England
 * [Chris Campbell](https://twitter.com/digitalcampbell)
 * [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
 * [Martin Stabe](https://twitter.com/martinstabe)
+* [David Blood](https://twitter.com/davidcblood) ([Mastodon](https://4estate.media/@david))
+* [Joanna S. Kao](https://twitter.com/joannaskao)
+* [Ændrew Rininsland](https://twitter.com/aendrew) ([Mastodon](https://4estate.media/@aendrew))
+* [Max Harlow](https://twitter.com/maxharlow)
+* [Cale Tilford](https://twitter.com/caletilford)
 
 ## Five Thirty Eight
 New York, New York
