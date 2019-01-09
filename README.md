@@ -220,16 +220,19 @@ London, England
 
 [Twitter](https://twitter.com/ftdata) | [Website](https://www.ft.com/ft-data) | [Blog](https://www.ft.com/chart-doctor)
 
+* [Ændrew Rininsland](https://twitter.com/aendrew) ([Mastodon](https://4estate.media/@aendrew))
 * [Alan Smith](https://twitter.com/theboysmithy)
 * [Alexandra Wisniewska](https://twitter.com/alekswis)
+* [Brooke Fox](https://twitter.com/brookefox91)
+* [Cale Tilford](https://twitter.com/caletilford)
 * [Chris Campbell](https://twitter.com/digitalcampbell)
+* [David Blood](https://twitter.com/davidcblood) ([Mastodon](https://4estate.media/@david))
+* [Fan Fei](https://twitter.com/DatumFan)
+* [Jane Pong](https://twitter.com/officeofjane)
+* [Joanna S. Kao](https://twitter.com/joannaskao)
 * [John Burn-Murdoch](https://twitter.com/jburnmurdoch)
 * [Martin Stabe](https://twitter.com/martinstabe)
-* [David Blood](https://twitter.com/davidcblood) ([Mastodon](https://4estate.media/@david))
-* [Joanna S. Kao](https://twitter.com/joannaskao)
-* [Ændrew Rininsland](https://twitter.com/aendrew) ([Mastodon](https://4estate.media/@aendrew))
 * [Max Harlow](https://twitter.com/maxharlow)
-* [Cale Tilford](https://twitter.com/caletilford)
 
 ## Five Thirty Eight
 New York, New York
