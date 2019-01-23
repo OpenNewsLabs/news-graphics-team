@@ -401,10 +401,11 @@ Zurich, Switzerland
 ## POLITICO
 Washington, D.C.
 [Website](https://the-politico.github.io/)
+
+* [Andrew Briz](https://twitter.com/BrizAndrew)
 * [Jon McClure](https://twitter.com/jonrmcclure)
 * [Lily Mihalik](https://twitter.com/mazet)
 * [Sarah Frostenson](https://twitter.com/sfrostenson)
-* [Tyler Fisher](https://twitter.com/tylrfishr)
 
 ## ProPublica
 New York, New York
